@@ -7,6 +7,6 @@ document.addEventListener("DOMContentLoaded", () => {
   
  const ul = document.getElementById("tasks");
 
-  new_Form.addEventListener("submit", )
+  new_Form.addEventListener("submit", crea)
 });
 
