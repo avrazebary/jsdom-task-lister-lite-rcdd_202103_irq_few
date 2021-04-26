@@ -5,5 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const new_Priority = document.getElementById("new-task-priority");
 
   
+ const ul = document.getElementById("tasks");
+
 });
 
