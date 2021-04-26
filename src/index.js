@@ -7,5 +7,6 @@ document.addEventListener("DOMContentLoaded", () => {
   
  const ul = document.getElementById("tasks");
 
+  new_Form 
 });
 
