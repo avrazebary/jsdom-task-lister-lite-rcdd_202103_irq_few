@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
   
-  const newTaskForm = document.getElementById("create-task-form");
-  const newTaskDescription = document.getElementById("new-task-description");
-  const newTaskPriority = document.getElementById("new-task-priority");
+  const new_Form = document.getElementById("create-task-form");
+  const new_Description = document.getElementById("new-task-description");
+  const new_Priority = document.getElementById("new-task-priority");
 
   
 });
